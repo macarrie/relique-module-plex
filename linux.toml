@@ -1,0 +1,6 @@
+name = "plex"
+module_type = "plex"
+backup_type = "diff"
+backup_paths = [
+	"/var/lib/plexmediaserver/Library/Application Support/Plex Media Server/"
+]
